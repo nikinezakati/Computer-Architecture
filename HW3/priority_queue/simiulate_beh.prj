@@ -1,0 +1,2 @@
+vhdl work "priority_queue.vhd"
+vhdl work "simiulate.vhd"

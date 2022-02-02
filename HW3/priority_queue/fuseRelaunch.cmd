@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "Z:/Desktop/CA/HW3/priority_queue/simiulate_isim_beh.exe" -prj "Z:/Desktop/CA/HW3/priority_queue/simiulate_beh.prj" "work.simiulate" 

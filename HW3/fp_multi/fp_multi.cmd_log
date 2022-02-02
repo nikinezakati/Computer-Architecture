@@ -1,0 +1,11 @@
+xst -intstyle ise -ifn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.xst" -ofn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.xst" -ofn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.xst" -ofn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.xst" -ofn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.xst" -ofn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-tq144-5 fp_multi.ngc fp_multi.ngd  
+map -intstyle ise -p xc3s400-tq144-5 -cm area -ir off -pr off -c 100 -o fp_multi_map.ncd fp_multi.ngd fp_multi.pcf 
+par -w -intstyle ise -ol high -t 1 fp_multi_map.ncd fp_multi.ncd fp_multi.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml fp_multi.twx fp_multi.ncd -o fp_multi.twr fp_multi.pcf 
+xst -intstyle ise -ifn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.xst" -ofn "Z:/Desktop/CA/HW3/fp_multi/fp_multi.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-tq144-5 fp_multi.ngc fp_multi.ngd  

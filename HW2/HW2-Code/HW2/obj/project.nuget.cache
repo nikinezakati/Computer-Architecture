@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDimiR3aEcJ2tl9EDKe/0R2Tio+P56NNTxrGryd8SN5EnhdVm+cRDlaPo9l0/FfaAmbnYprypQOSvphHnQ4yxA==",
+  "success": true,
+  "projectFilePath": "/Users/nikinezakati/Desktop/HW2-Code/assembler/assembler.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikinezakati/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

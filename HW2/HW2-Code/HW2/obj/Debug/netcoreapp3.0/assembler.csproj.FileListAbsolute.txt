@@ -1,0 +1,11 @@
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\obj\Debug\netcoreapp3.0\assembler.csprojAssemblyReference.cache
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\obj\Debug\netcoreapp3.0\assembler.AssemblyInfoInputs.cache
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\obj\Debug\netcoreapp3.0\assembler.AssemblyInfo.cs
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\bin\Debug\netcoreapp3.0\assembler.exe
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\bin\Debug\netcoreapp3.0\assembler.deps.json
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\bin\Debug\netcoreapp3.0\assembler.runtimeconfig.json
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\bin\Debug\netcoreapp3.0\assembler.runtimeconfig.dev.json
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\bin\Debug\netcoreapp3.0\assembler.dll
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\bin\Debug\netcoreapp3.0\assembler.pdb
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\obj\Debug\netcoreapp3.0\assembler.dll
+C:\Users\Kiaksar Shirvani\source\repos\assembler\assembler\obj\Debug\netcoreapp3.0\assembler.pdb

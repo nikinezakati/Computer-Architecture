@@ -1,0 +1,2 @@
+vhdl work "multiplier.vhd"
+vhdl work "simulate.vhd"

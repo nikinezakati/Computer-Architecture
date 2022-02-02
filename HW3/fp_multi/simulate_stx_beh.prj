@@ -1,0 +1,2 @@
+vhdl isim_temp "fp_multi.vhd"
+vhdl isim_temp "simulate.vhd"

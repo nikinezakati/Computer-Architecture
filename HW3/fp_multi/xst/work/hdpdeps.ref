@@ -1,0 +1,7 @@
+V3 3
+FL //mac/home/Desktop/CA/HW3/fp_multi/fp_multi.vhd 2021/05/24.14:54:12 P.20131013
+EN work/fp_multi 1624634022 FL //mac/home/Desktop/CA/HW3/fp_multi/fp_multi.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/std_logic_arith 1381692177
+AR work/fp_multi/Behavioral 1624634023 \
+      FL //mac/home/Desktop/CA/HW3/fp_multi/fp_multi.vhd EN work/fp_multi 1624634022

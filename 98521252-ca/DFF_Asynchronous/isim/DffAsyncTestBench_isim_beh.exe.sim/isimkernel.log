@@ -1,0 +1,28 @@
+Command line:
+   DffAsyncTestBench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  9221
+
+Thu May 20 23:16:03 2021
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5154.75 Meg
+
+ Total Signals          : 8
+ Total Nets             : 4
+ Total Signal Drivers   : 3
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 365
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 4997.46 Meg
+
+Thu May 20 23:17:28 2021
+

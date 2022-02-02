@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "Z:/Desktop/CA/HW4/register_file/simulate_isim_beh.exe" -prj "Z:/Desktop/CA/HW4/register_file/simulate_beh.prj" "work.simulate" 
